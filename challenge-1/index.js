@@ -1,3 +1,5 @@
+// Challenge 1: Print numbers from 1 to 10
+
 // Using While Loop
 
 let a = 1
